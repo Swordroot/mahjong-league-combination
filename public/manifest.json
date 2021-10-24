@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "麻雀組み合わせ一覧生成",
+  "name": "所定の人数から4人を選ぶ組み合わせを全て抽出します。",
   "icons": [
     {
       "src": "favicon.ico",
